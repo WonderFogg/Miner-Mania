@@ -1,4 +1,4 @@
-# minermania
+# miner-mania
 minermania
 
 # jQuery Assignment
